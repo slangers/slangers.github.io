@@ -1,0 +1,11 @@
+.folio {
+  padding-left: 0;
+}
+
+.folio_item {
+  @include span-columns(3 of 9);
+  @include omega(3n);
+  height: $column*3 + $gutter*2;
+  margin-bottom: $gutter;
+  overflow: hidden;
+}
