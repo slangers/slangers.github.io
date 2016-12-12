@@ -1,0 +1,10 @@
+// Breakpoints
+
+@import "neat/neat-helpers";
+
+//$visual-grid: true;
+$grid-columns: 4;
+
+$small-bp: new-breakpoint(min-width 480px 12);
+$medium-bp: new-breakpoint(min-width 720px 12);
+$large-bp: new-breakpoint(min-width 900px 12);

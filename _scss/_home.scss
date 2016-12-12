@@ -1,0 +1,19 @@
+// styles for home layout
+
+.card {
+  padding: 20px;
+  color: #fff;
+  border: 5px solid #fff;
+  font-family: 'Inconsolata', monospace;
+  @include span-columns(4);
+
+  @include media($small-bp) {
+    @include span-columns(6);
+    @include shift(3);
+  }
+
+  @include media($medium-bp) {
+    @include span-columns(4);
+    @include shift(4);
+  }
+}

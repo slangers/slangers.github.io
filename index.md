@@ -4,4 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-fuck u buddy
+# juno steel
+
+snarky depressed gay private eye based in hyperion city, mars. drop me a line.
+
+clips // design/illustration // misc
+
+twitter x instagram x github x email
