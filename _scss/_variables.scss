@@ -32,6 +32,17 @@ p {
   font-size: 16px;
 }
 
+h1 {
+  font-size: 30px;
+
+  a,
+  a:link,
+  a:visited,
+  a:active {
+    border-bottom: 0;
+  }
+}
+
 .container {
   @include outer-container;
 }
@@ -49,5 +60,23 @@ p {
 
   a {
     color: #fff;
+  }
+}
+
+.social {
+  font-size: 12px;
+  padding-left: 0;
+  margin-top: $gutter;
+
+  li {
+    display: inline-block;
+    margin-right: $gutter/2;
+  }
+
+  a,
+  a:link,
+  a:active,
+  a:visited {
+    border: none;
   }
 }

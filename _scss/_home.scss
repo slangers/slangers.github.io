@@ -24,16 +24,25 @@
 }
 
 .home_nav {
+  margin-top: $gutter;
   ul {
     padding-left: 0;
+    font-size: 14px;
   }
 
   li {
     display: inline-block;
     text-transform: uppercase;
+    margin-right: $gutter/2;
+    margin-bottom: $gutter/2;
   }
 
   a {
     color: #fff;
+    border-bottom-color: #fff;
+  }
+
+  a:hover {
+    border-bottom-color: $feature-color-1;
   }
 }
