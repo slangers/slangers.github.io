@@ -1,0 +1,29 @@
+.page_card {
+  @include span-columns(4);
+
+  @include media($small-bp) {
+    @include span-columns(4 of 12);
+  }
+
+  @include media($medium-bp) {
+    @include span-columns(3 of 12);
+  }
+
+}
+
+.page_content {
+  background-color: #fff;
+  padding: $padding-usual;
+  font-weight: normal;
+  line-height: 1.6;
+
+  @include span-columns(4);
+
+  @include media($small-bp) {
+    @include span-columns(8 of 12);
+  }
+
+  @include media($medium-bp) {
+    @include span-columns(9 of 12);
+  }
+}

@@ -1,19 +1,39 @@
 // styles for home layout
 
-.card {
-  padding: 20px;
-  color: #fff;
-  border: 5px solid #fff;
-  font-family: 'Inconsolata', monospace;
+
+.home_container {
+  @include outer-container;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  vertical-align: center;
+}
+
+.home_card {
   @include span-columns(4);
 
   @include media($small-bp) {
-    @include span-columns(6);
-    @include shift(3);
+    @include span-columns(8);
+    @include shift(2);
   }
 
   @include media($medium-bp) {
     @include span-columns(4);
     @include shift(4);
+  }
+}
+
+.home_nav {
+  ul {
+    padding-left: 0;
+  }
+
+  li {
+    display: inline-block;
+    text-transform: uppercase;
+  }
+
+  a {
+    color: #fff;
   }
 }

@@ -1,18 +1,53 @@
-// VARIABLES, BREAKPOINTS, GLOBAL SETTINGS ETC.
+// VARIABLES
+
+$padding-usual: 20px;
+$feature-color-1: #e96443;
+$feature-color-2: #904e95;
+
+
+// GLOBAL SETTINGS ETC.
 
 body {
   background: #e96443; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #e96443 , #904e95); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #e96443 , #904e95); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  height: 100vh;
-  overflow: hidden; // fix later pls
+  background: linear-gradient(to left,  $feature-color-1 , $feature-color-2);
+  min-height: 100vh;
   font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+a,
+a:link,
+a:active,
+a:visited {
+  border-bottom: 1px solid $feature-color-1;
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  border-bottom-color: $feature-color-2;
+}
+
+p {
+  font-size: 16px;
 }
 
 .container {
   @include outer-container;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  vertical-align: center;
+}
+
+.row {
+  @include row();
+}
+
+.card {
+  padding: $padding-usual;
+  color: #fff;
+  border: 5px solid #fff;
+  width: auto;
+  //font-family: 'Inconsolata', monospace;
+
+  a {
+    color: #fff;
+  }
 }

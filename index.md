@@ -4,10 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-# juno steel
+# sam langford
 
-snarky depressed gay private eye based in hyperion city, mars. drop me a line.
-
-clips // design/illustration // misc
+writer/editor/designer hybrid based in sydney, australia. former editor of [honi soit](http://honisoit.com).
 
 twitter x instagram x github x email

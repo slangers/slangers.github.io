@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  "go fuck yourself"
 date:   2016-12-12 11:28:34 +1100
 categories: jekyll update

@@ -1,13 +1,14 @@
 {% include head.html %}
 
 
-{% include head.html %}
-
-<div class="container">
-  <div class="card">
+<div class="home_container">
+  <div class="card home_card">
     {{ content }}
+
+    <div class="home_nav">
+    {% include nav.html %}
+    </div>
   </div>
 </div>
 
-</body>
-</html>
+{% include footer.html %}
