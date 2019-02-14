@@ -8,7 +8,7 @@ permalink: /clips/
 
 Here's a selection of my favourite recent writing. You can find a more comprehensive archive [here](http://junkee.com/author/sam-langford).
 
-## Workplace Exploitation ##
+## Workers' Rights ##
 
 + [Young Workers Say Pressed Juices Owes Them Thousands In Unpaid Wages And Superannuation](https://junkee.com/pressed-juices-unpaid-workers/181725)
 + [The Inside Story Of How The Once Mighty Doughnut Time Empire Crumbled Into Pieces](https://junkee.com/doughnut-time-employees-complain/149795)
