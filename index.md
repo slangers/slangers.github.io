@@ -6,4 +6,4 @@ layout: home
 ---
 # sam langford
 
-writer/editor/designer hybrid based in sydney, australia. former editor of [honi soit](http://honisoit.com) and BULL Magazine at the University of Sydney.
+journalist based in sydney, australia. currently a staff writer at [junkee](http://junkee.com), former editor of [honi soit](http://honisoit.com).

@@ -8,8 +8,9 @@ $feature-color-2: #904e95;
 // GLOBAL SETTINGS ETC.
 
 body {
-  background: #e96443; /* fallback for old browsers */
-  background: linear-gradient(to left,  $feature-color-1 , $feature-color-2);
+  //background: #e96443; /* fallback for old browsers */
+  //background: linear-gradient(to left,  $feature-color-1 , $feature-color-2);
+  background: #f1c0d6;
   min-height: 100vh;
   font-family: 'Roboto', sans-serif;
   font-weight: normal;
