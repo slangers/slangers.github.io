@@ -10,6 +10,7 @@ Here's a selection of my favourite recent writing. You can find a more comprehen
 
 ## Workers' Rights ##
 + [Young Workers Say Pressed Juices Owes Them Thousands In Unpaid Wages And Superannuation](https://junkee.com/pressed-juices-unpaid-workers/181725)
++ [Customers Say Pressed Juices Owes Them Hundreds In Refunds For Juice Cleanses That Never Arrived](https://junkee.com/pressed-juices-customer-complaints/194769)
 + [The Inside Story Of How The Once Mighty Doughnut Time Empire Crumbled Into Pieces](https://junkee.com/doughnut-time-employees-complain/149795)
 + [The Doughnut Time Scandal Is Even Bigger Than We Thought](https://junkee.com/doughnut-time-damian-griffiths/150986)
 
