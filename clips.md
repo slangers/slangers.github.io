@@ -14,16 +14,20 @@ Here's a selection of my favourite recent writing. You can find a more comprehen
 + [The Inside Story Of How The Once Mighty Doughnut Time Empire Crumbled Into Pieces](https://junkee.com/doughnut-time-employees-complain/149795)
 + [The Doughnut Time Scandal Is Even Bigger Than We Thought](https://junkee.com/doughnut-time-damian-griffiths/150986)
 
+## LGBTIQ ##
++ [Let’s Talk About Deadnaming, Misgendering, And How To Not Do It](https://junkee.com/deadnaming-misgendering-trans/174009)
++ [We Fact-Checked The Daily Telegraph’s Rubbish About “Gender Whisperers” And Trans Kids](https://junkee.com/scott-morrison-gender-whisperer/174136)
++ [Inside The No Campaign’s Sad Funeral For The Postal Survey](https://junkee.com/no-campaign-marriage-result/135058)
+
+## Environment ## 
++ [Meet The Kids Who Are Skipping Schools Australia-Wide To Call For Climate Action](https://junkee.com/school-strike-climate-change/184496)
++ [Young Australians Have An Urgent Message About Tomorrow’s School Strike For Climate](https://junkee.com/school-strike-climate-movement/197769)
+
 ## Public Housing ##
 + [The Last Resident Of The Iconic Sirius Building Has Moved Out. She Didn’t Want To Go.](https://junkee.com/sirius-building-myra-demetriou/144766)
 + [How The Sirius Building Was Lost](http://honisoit.com/2016/08/how-the-sirius-building-was-lost/)
 + [There’s An Important Story Behind Those Pictures Of Neon-Lit Apartment Windows](https://junkee.com/waterloo-we-live-here/123687)
 + [The Politicians “Uncomfortable” With The Homeless Are The Same Ones Keeping Public Housing Empty](https://junkee.com/homeless-tent-city-public-housing/116260)
-
-## LGBTIQ ##
-+ [Let’s Talk About Deadnaming, Misgendering, And How To Not Do It](https://junkee.com/deadnaming-misgendering-trans/174009)
-+ [We Fact-Checked The Daily Telegraph’s Rubbish About “Gender Whisperers” And Trans Kids](https://junkee.com/scott-morrison-gender-whisperer/174136)
-+ [Inside The No Campaign’s Sad Funeral For The Postal Survey](https://junkee.com/no-campaign-marriage-result/135058)
 
 ## Deep Dives On Weird Topics ##
 + [Australia’s Strangest Unsolved Mystery Involves A Mace, A Brothel And A Pair Of Dismembered Legs](https://junkee.com/longform/mace-melbourne-mystery)
